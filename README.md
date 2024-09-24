@@ -18,4 +18,4 @@ O mesmo apresenta um aplicativo web que permite o uso de flashcards com permanê
 <p>Devem ser executados simultaneamente o frontend em conjunto com o backend.</p>
 
 <p>Executando <b>frontend</b>: Dentro da pasta frontend do repositório utilize o comando <code>npm start</code></p>
-<p>Executando <b>backend</b>: Na pasta raiz do repositório utilize o comando <code>node start</code></p>
+<p>Executando <b>backend</b>: Na pasta raiz do repositório utilize o comando <code>node app</code></p>
