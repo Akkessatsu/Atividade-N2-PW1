@@ -17,5 +17,5 @@ O mesmo apresenta um aplicativo web que permite o uso de flashcards com permanê
 ### ➤ Como iniciar?
 <p>Devem ser executados simultaneamente o frontend em conjunto com o backend.</p>
 
-<p>Executando <b>frontend</b>: Dentro da pasta frontend do repositório utilize o comando </p>`npm start`<br>
-<p>Executando <b>backend</b>: Na pasta raiz do repositório utilize o comando </p>`node start`
+<p>Executando <b>frontend</b>: Dentro da pasta frontend do repositório utilize o comando </p><code>npm start</code><br>
+<p>Executando <b>backend</b>: Na pasta raiz do repositório utilize o comando </p><code>node start</code>
